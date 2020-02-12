@@ -1,0 +1,8 @@
+//
+// Created by flapo on 2/12/2020.
+//
+
+#ifndef UNTITLED17_FABULOUSCLASS_H
+#define UNTITLED17_FABULOUSCLASS_H
+
+#endif //UNTITLED17_FABULOUSCLASS_H
